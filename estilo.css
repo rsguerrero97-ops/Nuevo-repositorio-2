@@ -1,0 +1,36 @@
+body{
+
+background-color: #e2f2f7;
+font-family: Arial, sans-serif;  
+margin: auto;
+max-width: 650px;
+}
+
+p:hover{
+color: blue;	
+}
+
+li:hover{
+color: brown;	
+}
+
+h1:hover{
+font-size: 30px;
+color: brown;
+}
+
+h3:hover{
+
+color: brown;
+}
+
+h2:hover{
+
+color: brown;
+}
+
+img:hover{
+transform: scale(1.090);
+border: 2px solid;	
+
+}
